@@ -1,7 +1,7 @@
 # Atividades Tópicos
 Irá compor todas as atividades da disciplina de tópicos de computação
 
-##Atividade 2
+## Atividade 2
 
 Comando para rodar:
 
