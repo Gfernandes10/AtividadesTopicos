@@ -3,7 +3,7 @@ Irá compor todas as atividades da disciplina de tópicos de computação
 
 ## Atividade 2
 
-Comando para rodar:
+Comando para executar atividade:
 
 roslaunch mybot_description description.launch
 
